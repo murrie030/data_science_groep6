@@ -44,3 +44,5 @@ Zie https://stackoverflow.com/questions/36869258/how-to-use-graphviz-with-anacon
 Ga nu naar de desbetreffende locatie van het project. Run het project met: 
 
 `jupyter notebook`
+
+Klik vervolgens op `Cell` > `Run All`.
