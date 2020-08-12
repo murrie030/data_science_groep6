@@ -42,4 +42,5 @@ Zie https://stackoverflow.com/questions/36869258/how-to-use-graphviz-with-anacon
 6. `pip install graphviz`.
 
 Ga nu naar de desbetreffende locatie van het project. Run het project met: 
+
 `jupyter notebook`
