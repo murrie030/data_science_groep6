@@ -19,31 +19,24 @@ Nu volgen de installaties van de libraries. Hiervoor gebruik je de command promp
 Voor het gebruik van Holoviews:
 
 1. `conda install -c pyviz holoviews bokeh`
-
+<br>
 Voor het gebruik van pafy:
-
 2. `pip install pafy`
-
+<br>
 Voor het gebruik van youtube_dl
-
 3. `pip install youtube_dl`
-
+<br>
 Voor het gebruik van ipywidgets:
-
 4. `conda install -c conda-forge ipywidgets`
-
+<br>
 Voor het gebruik van graphviz:
-
 5. Voeg graphviz aan je environment (**systeem**) variabele PATH. 
 
 **Let op:** *(Afhankelijk van de locatie moet er een **bin** folder met de **dot.exe** bestand toegevoegd worden aan de PATH.
 Zie https://stackoverflow.com/questions/36869258/how-to-use-graphviz-with-anaconda-spyder/36869259).*
-
+<br>
 6. `pip install graphviz`.
-
-
+<br>
 Ga nu naar de desbetreffende locatie van het project.
 
-Run het project met:
-
-`jupyter notebook`
+Run het project met: `jupyter notebook`
