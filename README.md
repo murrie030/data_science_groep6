@@ -17,22 +17,28 @@ Installeer Anaconda (dit is de data science toolkit):
 Nu volgen de installaties van de libraries. Hiervoor gebruik je de command prompt.
 
 Voor het gebruik van Holoviews:
+
 1. `conda install -c pyviz holoviews bokeh`
 
 Voor het gebruik van pafy:
+
 2. `pip install pafy`
 
 Voor het gebruik van youtube_dl
+
 3. `pip install youtube_dl`
 
 Voor het gebruik van ipywidgets:
+
 4. `conda install -c conda-forge ipywidgets`
 
 Voor het gebruik van graphviz:
+
 5.1 Voeg graphviz aan je environment (**systeem**) variabele PATH. 
 
 **Let op:** *(Afhankelijk van de locatie moet er een **bin** folder met de **dot.exe** bestand toegevoegd worden aan de PATH.
 Zie https://stackoverflow.com/questions/36869258/how-to-use-graphviz-with-anaconda-spyder/36869259).*
+
 5.2. `pip install graphviz`.
 
 Ga nu naar de desbetreffende locatie van het project.
